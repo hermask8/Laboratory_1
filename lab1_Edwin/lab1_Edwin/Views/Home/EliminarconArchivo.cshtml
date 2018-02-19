@@ -1,0 +1,92 @@
+﻿@{
+
+    ViewBag.Title = "Home Page";
+}
+
+@using lab1_Edwin.Models;
+
+@model IEnumerable<Jugadores>
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style type="text/css">
+        body {
+            font-family: Arial;
+            font-size: 10pt;
+        }
+
+        table {
+            border: 1px solid #ccc;
+            border-collapse: collapse;
+            background-color: #fff;
+        }
+
+            table th {
+                background-color: #B8DBFD;
+                Color: #333;
+                font-weight: bold;
+            }
+
+            table th, table td {
+                padding: 5px;
+                border: 1px solid #ccc
+            }
+
+            table, table table td {
+                border: 0px solid #ccc;
+            }
+    </style>
+</head>
+<body>
+    <label>Carga de modo automatico</label>
+    @using (Html.BeginForm("EliminarconArchivo", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div>
+            <input type="file" name="archivo" />
+            <input type="submit" value="Importar" />
+
+
+            @Html.ActionLink("Ir a Home", "Index", "Home")
+        </div>
+
+
+    }
+    @if (Model.Count() > 0)
+    {
+        <hr />
+        <table cellpadding="100" cellspacing="100">
+            <tr>
+                <th>Club</th>
+                <th>Apellido</th>
+                <th>Nombre</th>
+                
+            </tr>
+
+            @foreach (var jugadoresEliminar in Model)
+            {
+                <tr>
+                    <td>@jugadoresEliminar.Club</td>
+                    <td>@jugadoresEliminar.Apellido</td>
+                    <td>@jugadoresEliminar.Nombre</td>
+                    
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = jugadoresEliminar.ID }) |
+                        @Html.ActionLink("Details", "Details", new { id = jugadoresEliminar.ID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = jugadoresEliminar.ID })
+                    </td>
+                </tr>
+            }
+        </table>
+    }
+</body>
+</html>
+

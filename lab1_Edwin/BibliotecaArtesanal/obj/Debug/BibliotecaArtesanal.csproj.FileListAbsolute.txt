@@ -1,0 +1,6 @@
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\BibliotecaArtesanal\bin\Debug\BibliotecaArtesanal.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\BibliotecaArtesanal\bin\Debug\BibliotecaArtesanal.pdb
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\BibliotecaArtesanal\obj\Debug\BibliotecaArtesanal.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\BibliotecaArtesanal\obj\Debug\BibliotecaArtesanal.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\BibliotecaArtesanal\obj\Debug\BibliotecaArtesanal.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\BibliotecaArtesanal\obj\Debug\BibliotecaArtesanal.pdb

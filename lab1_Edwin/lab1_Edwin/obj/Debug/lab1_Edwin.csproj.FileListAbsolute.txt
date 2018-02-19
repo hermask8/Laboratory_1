@@ -1,0 +1,149 @@
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\ApplicationInsights.config
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\lab1_Edwin.dll.config
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\lab1_Edwin.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\lab1_Edwin.pdb
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Antlr3.Runtime.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.Web.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.WindowsServer.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.ApplicationInsights.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.Web.Infrastructure.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Newtonsoft.Json.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.Helpers.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.Mvc.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.Optimization.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.Razor.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Deployment.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Razor.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\WebGrease.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.Helpers.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.Mvc.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.Optimization.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.Razor.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Deployment.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Razor.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Antlr3.Runtime.pdb
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Newtonsoft.Json.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.ApplicationInsights.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.WindowsServer.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.Web.xml
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Helpers.resources.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Mvc.resources.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Optimization.resources.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Razor.resources.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\es\System.Web.WebPages.resources.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.csprojResolveAssemblyReference.cache
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.csproj.CoreCompileInputs.cache
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.dll
+c:\users\edwin hilario\source\repos\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.pdb
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\ApplicationInsights.config
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\lab1_Edwin.dll.config
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\lab1_Edwin.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\lab1_Edwin.pdb
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Antlr3.Runtime.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.Web.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Newtonsoft.Json.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.Helpers.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.Mvc.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.Optimization.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.Razor.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\WebGrease.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.Helpers.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.Mvc.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.Optimization.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.Razor.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Antlr3.Runtime.pdb
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Newtonsoft.Json.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.Web.xml
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.csprojResolveAssemblyReference.cache
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.csproj.CoreCompileInputs.cache
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.dll
+C:\Users\Ana Gabriel Morales\Desktop\Labs\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.pdb
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\ApplicationInsights.config
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\lab1_Edwin.dll.config
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\lab1_Edwin.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\lab1_Edwin.pdb
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Antlr3.Runtime.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.Web.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Newtonsoft.Json.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.Helpers.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.Mvc.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.Optimization.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.Razor.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\WebGrease.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.Helpers.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.Mvc.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.Optimization.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.Razor.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Antlr3.Runtime.pdb
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Newtonsoft.Json.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\Microsoft.AI.Web.xml
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\obj\Debug\lab1_Edwin.pdb
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\BibliotecaArtesanal.dll
+C:\Users\Edwin Hilario\Documents\URL\progra\Estructuras\Practica\lab1\lab1_Edwin\lab1_Edwin\bin\BibliotecaArtesanal.pdb
