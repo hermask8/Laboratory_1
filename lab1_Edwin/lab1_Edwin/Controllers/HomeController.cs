@@ -242,8 +242,164 @@ namespace lab1_Edwin.Controllers
             return View("Index",miListaLink);
             
         }
-       
 
+        
+        BibliotecaArtesanal.ListaGenerica<Jugadores> listaArte = new BibliotecaArtesanal.ListaGenerica<Jugadores>();
+        List<Jugadores> ultima = new List<Jugadores>();
+        public ActionResult IngresoArtesanal()
+        {
+            
+            List<Jugadores> ultima = new List<Jugadores>();
+            foreach (var item in listaArte.ToList())
+            {
+                ultima.Add(item);
+            }
+            
+            return View(ultima);
+        }
+        [HttpPost]
+        public ActionResult IngresoArtesanal(HttpPostedFileBase archivo5)
+        {
+            string pathArchivo = string.Empty;
+            if (archivo5 != null)
+            {
+                string path = Server.MapPath("~/Cargas/");
+                if (!Directory.Exists(path))
+                {
+                    Directory.CreateDirectory(path);
+                }
+
+                pathArchivo = path + Path.GetFileName(archivo5.FileName);
+                string extension = Path.GetExtension(archivo5.FileName);
+                archivo5.SaveAs(pathArchivo);
+                Random miRandom = new Random();
+                string archivoCsv = directorios.File.ReadAllText(pathArchivo);
+                foreach (string lineas in archivoCsv.Split('\n'))
+                {
+                    if (!string.IsNullOrEmpty(lineas))
+                    {
+                        var model = (new Jugadores
+                        {
+                            ID = Jugador.Instance.Jugadores.Count + 1,
+                            Club = Convert.ToString(lineas.Split(',')[0]),
+                            Apellido = Convert.ToString(lineas.Split(',')[1]),
+                            Nombre = Convert.ToString(lineas.Split(',')[2]),
+                            Posición = Convert.ToString(lineas.Split(',')[3]),
+                            Salario = Convert.ToDecimal((lineas.Split(',')[4])),
+                            Compensaciones = Convert.ToDecimal((lineas.Split(',')[5]))
+
+                        });
+                        listaArte.AgregarPrimero(model);
+                    }
+                }
+            }
+            //listaArte.Primero(); 
+            //return View(Jugador.Instance.Jugadores);
+            return View("Index", ultima);
+
+        }
+        ListaLink miListaBuscar = new ListaLink();
+        [HttpPost]
+        public ActionResult SearchPlayer(string nombre, string apellido, string salarioIgual, string salarioMayor, string salarioMenor
+            , string posicion, string club)
+        {
+            decimal salario = 0;
+            decimal salario1 = 0;
+            decimal salario2 = 0;
+
+            foreach (var model in Jugador.Instance.JugadoresLinked)
+            {
+                if (model.Nombre == nombre || model.Apellido == apellido || model.Posición == posicion || model.Club == club)
+                {
+                    miListaBuscar.agregar(model);
+                }
+                if (salarioIgual != "")
+                {
+                    salario = Convert.ToDecimal(salarioIgual);
+                    if (model.Salario == salario)
+                    {
+                        miListaBuscar.agregar(model);
+                    }
+                }
+                if (salarioMayor != "")
+                {
+                    salario1 = Convert.ToDecimal(salarioMayor);
+                    if (model.Salario > salario1)
+                    {
+                        miListaBuscar.agregar(model);
+                    }
+                }
+                if (salarioMenor != "")
+                {
+                    salario2 = Convert.ToDecimal(salarioMenor);
+                    if (model.Salario < salario2)
+                    {
+                        miListaBuscar.agregar(model);
+                    }
+                }
+
+            }
+
+            return View(miListaBuscar);
+        }
+        public ActionResult SearchPlayer()
+        {
+            return View(miListaBuscar);
+        }
+        ListaLink miListaBuscarFile = new ListaLink();
+        public ActionResult DeletePlayerFile()
+        {
+            return View("Index", Jugador.Instance.JugadoresEliminarLinked);
+        }
+        //LinkedList<Jugadores> miLista = new LinkedList<Jugadores>();
+        [HttpPost]
+        public ActionResult DeletePlayerFile(HttpPostedFileBase archivo5)
+        {
+            //ListaLink miLista = new ListaLink();
+
+
+            string pathArchivo = string.Empty;
+            if (archivo5 != null)
+            {
+                string path = Server.MapPath("~/Cargas/");
+                if (!Directory.Exists(path))
+                {
+                    Directory.CreateDirectory(path);
+                }
+
+                pathArchivo = path + Path.GetFileName(archivo5.FileName);
+                string extension = Path.GetExtension(archivo5.FileName);
+                archivo5.SaveAs(pathArchivo);
+                Random miRandom = new Random();
+                string archivoCsv = directorios.File.ReadAllText(pathArchivo);
+                foreach (string lineas in archivoCsv.Split('\n'))
+                {
+                    if (!string.IsNullOrEmpty(lineas))
+                    {
+                        var model = (new Jugadores
+                        {
+                            // ID = Jugador.Instance.Jugadores.Count + 1,
+                            Club = Convert.ToString(lineas.Split(',')[0]),
+                            Apellido = Convert.ToString(lineas.Split(',')[1]),
+                            Nombre = Convert.ToString(lineas.Split(',')[2]),
+                            // Posición = Convert.ToString(lineas.Split(',')[3]),
+                            // Salario = Convert.ToDecimal((lineas.Split(',')[4])),
+                            // Compensaciones = Convert.ToDecimal((lineas.Split(',')[5]))
+
+                        });
+                        Jugador.Instance.JugadoresEliminarLinked.AddFirst(model);
+                        // if (miListaLink.First(x => x.Nombre == model.Nombre && x.Apellido == model.Apellido && x.Club == model.Club) != null)
+                        //{
+                        Jugador.Instance.JugadoresLinked.Remove(Jugador.Instance.JugadoresLinked.First(x => x.Nombre == model.Nombre && x.Apellido == model.Apellido && x.Club == model.Club));
+                        //}
+                    }
+                }
+            }
+            //miListaLink = miLista.retornarLista();
+            //return View(Jugador.Instance.Jugadores);
+            return View("Index", Jugador.Instance.JugadoresEliminarLinked);
+
+        }
         public ActionResult Index()
         {
             return View(Jugador.Instance.Jugadores);

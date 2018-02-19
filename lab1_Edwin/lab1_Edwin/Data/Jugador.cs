@@ -20,12 +20,17 @@ namespace lab1_Edwin.Data
 
         public List<Jugadores> Jugadores;
         public List<Jugadores> JugadoresEliminar;
+        public LinkedList<Jugadores> JugadoresLinked;
+        public LinkedList<Jugadores> JugadoresEliminarLinked;
         internal string Nombre;
 
         public Jugador()
         {
             Jugadores = new List<Jugadores>();
             JugadoresEliminar = new List<Jugadores>();
+            JugadoresLinked = new LinkedList<Jugadores>();
+            JugadoresEliminarLinked = new LinkedList<Jugadores>();
+
         }
     }
 }
